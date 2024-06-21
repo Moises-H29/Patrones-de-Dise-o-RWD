@@ -81,7 +81,6 @@ p {
 
     .segunda {
         grid-column: 3 / 4;
-        grid-row: unset;
     }
     
 }
